@@ -19,6 +19,6 @@ class Solution{
 		}
 		}
 	}
-	return left;//图解
+	return left;//图解算法
 }
 	
